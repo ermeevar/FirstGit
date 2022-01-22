@@ -1,0 +1,7 @@
+C:\Users\ermee\Desktop\AppGit\AppGit\bin\Debug\AppGit.exe
+C:\Users\ermee\Desktop\AppGit\AppGit\bin\Debug\AppGit.pdb
+C:\Users\ermee\Desktop\AppGit\AppGit\obj\Debug\AppGit.csproj.AssemblyReference.cache
+C:\Users\ermee\Desktop\AppGit\AppGit\obj\Debug\AppGit.csproj.SuggestedBindingRedirects.cache
+C:\Users\ermee\Desktop\AppGit\AppGit\obj\Debug\AppGit.csproj.CoreCompileInputs.cache
+C:\Users\ermee\Desktop\AppGit\AppGit\obj\Debug\AppGit.exe
+C:\Users\ermee\Desktop\AppGit\AppGit\obj\Debug\AppGit.pdb
